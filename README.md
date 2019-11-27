@@ -1,1 +1,1 @@
-Codd's 12 rules: t.ly/DExlY
+Codd's 12 rules: https://t.ly/DExlY
