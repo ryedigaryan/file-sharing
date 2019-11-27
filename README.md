@@ -1,2 +1,1 @@
-# sharing
-A repo serving as USB Flash :joy:
+Codd's 12 rules: t.ly/DExlY
